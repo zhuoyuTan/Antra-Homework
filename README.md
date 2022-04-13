@@ -1,3 +1,3 @@
 # Antra-Homework
 
-This is my assignment collections for Antra full stack SEP
+This is my assignment collections of Antra full stack SEP
