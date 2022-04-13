@@ -78,4 +78,3 @@ order by Color desc
 select distinct ProductSubcategoryID, Color 
 from Production.Product
 where ProductSubcategoryID is not null and Color is not null
-order by Color desc
