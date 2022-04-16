@@ -158,7 +158,6 @@ group by e1.EmployeeID
 having count(*) > 2
 
 --Q27
-
 (select City, CompanyName as Name, ContactName as [Contact Name], 'Supplier' as Type 
 from dbo.Suppliers)
 union
