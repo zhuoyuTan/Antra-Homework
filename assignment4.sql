@@ -120,7 +120,8 @@ where month(BirthDate) = 2
 end
 
 exec sp_birthday_employees_tan
-
+--screenshot
+--https://github.com/zhuoyuTan/Antra-Homework/blob/main/A4Q5%20screenshot.png
 
 --Q6
 
