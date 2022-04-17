@@ -116,7 +116,7 @@ as
 begin
 select distinct FirstName + ' ' + LastName as name
 from Employees
-where month(BirthDate) = 3
+where month(BirthDate) = 2
 end
 
 exec sp_birthday_employees_tan
